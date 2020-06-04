@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1590149539 source:c:\users\grini\yandexdisk\sem2lab4var5\template.cpp
+	"template.h"
+
+1590157513 source:c:\users\grini\yandexdisk\sem2lab4var5\main.cpp
+	<iostream>
+	"template.h"
+
+1590158410 c:\users\grini\yandexdisk\sem2lab4var5\template.h
+	<iostream>
+
+1590173921 source:c:\users\grini\yandexdisk\sem2lab4var5 - с шаблоном\main.cpp
+	<iostream>
+	"template.h"
+
+1590174233 c:\users\grini\yandexdisk\sem2lab4var5 - с шаблоном\template.h
+	<iostream>
+
